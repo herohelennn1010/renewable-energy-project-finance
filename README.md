@@ -74,7 +74,7 @@ python3 validation/validate_model.py
 
 These Python checks do not independently recalculate every Excel formula. Rebuilding requires the Codex bundled `@oai/artifact-tool` runtime and `model/inputs.json`: run `node scripts/build_model.mjs`. `PROJECT_B_RUNTIME` can specify the bundled dependency root. Memo generation additionally requires ReportLab and pypdf: `python3 scripts/create_credit_memo.py`. The release check also requires pypdf: `python3 validation/validate_release.py`. The formula map and code support audit; no network is required for calculation.
 
-**Status:** Phases 0–7 complete. Published as a public GitHub portfolio. See [release validation](validation/release_validation.md) for verification coverage and limits. Source documents are linked rather than redistributed.
+**Status:** Phases 0–7 complete, with verification limits disclosed. The public repository includes the model, memo, source data, code and validation. See the [release validation](validation/release_validation.md) and [publication receipt](validation/publication_receipt.json). Source reports are linked rather than redistributed.
 
 ## Contribution
 

@@ -1,5 +1,7 @@
 # How to view this project
 
+**Release note:** the complete project is available in the [public GitHub repository](https://github.com/herohelennn1010/renewable-energy-project-finance). Read the memo in your browser, download the workbook to use it in Excel, or choose Code → Download ZIP for the complete package. Publication checks are recorded in `validation/publication_receipt.json`.
+
 ## Read in this order
 
 1. **README.md** gives the credit question, simulation disclosure, headline results and deliverable links. On GitHub it appears below the file list.

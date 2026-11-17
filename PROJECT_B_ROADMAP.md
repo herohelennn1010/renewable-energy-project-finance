@@ -1,6 +1,6 @@
 # Project B — Renewable Energy Project Finance & Credit Assessment
 
-Agent execution roadmap | Created: 17 November 2026 | Updated: 17 November 2026 | Status: Phases 0–7 complete; public portfolio release
+Agent execution roadmap | Created: 17 November 2026 | Updated: 17 November 2026 | Status: Phases 0–7 complete; verification limits disclosed
 
 ## 1. Mandate and stopping point
 
@@ -12,7 +12,7 @@ Final deliverables:
 2. A 3–5-page PDF credit committee memo, supported by model outputs and referenced public evidence.
 3. A GitHub repository containing documentation, source references, assumptions, methodology, reproducible calculation/validation materials and final deliverables.
 
-**Current authorization: complete Phases 0–7.** Research, sponsor assessment, the linked Excel model, scenarios/sensitivities and the five-page credit memo are complete. The simulated recommendation is to decline the request as currently structured, with a documented restructuring path. Calculation and export checks are complete; native Excel application recalculation was not independently verified. Public visibility was subsequently explicitly approved by the user. Repository: https://github.com/herohelennn1010/renewable-energy-project-finance. The final commit and remote verification are recorded in the release package publication receipt. See `docs/progress.md` and the validation reports.
+**Current authorization: complete Phases 0–7.** Research, sponsor assessment, the linked Excel model, scenarios/sensitivities and the five-page credit memo are complete. The simulated recommendation is to decline the request as currently structured, with a documented restructuring path. Calculation and export checks are complete; native Excel application recalculation was not independently verified. Public visibility was subsequently explicitly approved by the user. Repository: https://github.com/herohelennn1010/renewable-energy-project-finance. The release commit and remote content verification are recorded in `validation/publication_receipt.json`. The final receipt commit is identified by the repository history. See `docs/progress.md` and the validation reports.
 
 Label the final case prominently: independent educational simulation; no affiliation with, endorsement by, or access to confidential information from DBS or Sembcorp. Do not imply an actual financing transaction or actual bank policy.
 
@@ -272,6 +272,6 @@ Provide links to the Excel model, PDF memo and repository; state the information
 - [x] Phase 4 — Linked Excel model, with calculation-engine and exported-file checks.
 - [x] Phase 5 — Credit metrics, native sensitivities, scenarios and qualified sizing diagnostics.
 - [x] Phase 6 — Evidence-led recommendation and five-page PDF memo.
-- [x] Phase 7 — Validation, portfolio packaging and public GitHub publication, with native Excel verification limits disclosed.
+- [x] Phase 7 — Validation, portfolio packaging and public GitHub publication; native Excel verification limits disclosed.
 
-**Next action:** personally review the workbook, memo and assumptions before using the project in applications. Read `docs/viewing_guide.md` and `docs/contribution_statement.md`. Lifecycle reserve restructuring would be a separately validated analytical iteration.
+**Next action:** personally review the model and sources before using the case study in applications. Read `docs/viewing_guide.md` and `docs/contribution_statement.md`. Native Excel application recalculation remains outside the completed verification coverage. A revised lifecycle reserve structure would be a separate analytical iteration.

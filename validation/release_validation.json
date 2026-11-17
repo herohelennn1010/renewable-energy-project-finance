@@ -64,7 +64,7 @@
       "status": "PASS"
     }
   ],
-  "publication": "Public repository created after explicit user approval; uploaded release is verified separately by its publication receipt.",
+  "publication": "Public repository authorized by the user. See publication receipt for the verified release commit and remote content checks.",
   "repository": "herohelennn1010/renewable-energy-project-finance",
   "limitations": [
     "Native Microsoft Excel application opening/recalculation not independently verified.",

@@ -1,0 +1,10 @@
+{
+  "as_of": "2026-11-17",
+  "repository": "https://github.com/herohelennn1010/renewable-energy-project-finance",
+  "visibility": "public",
+  "public_visibility_explicitly_approved": true,
+  "full_publication_complete": false,
+  "status": "Release prepared; remote verification follows the first push.",
+  "verification_coverage": "Compare every Git blob identity and expected path with the reviewed local files.",
+  "native_excel_recalculation": "Not independently verified."
+}

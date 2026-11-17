@@ -1,6 +1,6 @@
 # Portfolio release validation
 
-17 November 2026. Analysis and packaging complete. Public GitHub publication was explicitly approved by the user.
+17 November 2026. Analysis and portfolio packaging complete. Public GitHub publication is authorized. See the publication receipt for remote verification.
 
 **15 release checks passed; 0 failed.** Separately, the model has 55 passing checks and the evidence/budget layer has 44.
 
@@ -24,7 +24,7 @@
 
 ## Publication status
 
-Public repository: [renewable-energy-project-finance](https://github.com/herohelennn1010/renewable-energy-project-finance). The user explicitly approved public visibility after the initial approval block. The repository was created successfully. Remote release verification and its commit are recorded in the publication receipt distributed with the release package.
+Public repository: [renewable-energy-project-finance](https://github.com/herohelennn1010/renewable-energy-project-finance). The user explicitly approved public visibility after the initial approval block. The repository was created successfully. The complete release includes the model, memo, source data, code, documentation and validation. The publication receipt records the verified release commit and byte comparisons.
 
 ## Review coverage
 
