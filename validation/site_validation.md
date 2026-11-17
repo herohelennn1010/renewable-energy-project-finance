@@ -12,4 +12,4 @@
 - Mobile page width equals its 390 px viewport, with no horizontal overflow; dashboard image loads.
 - Download section and scenario results are readable on mobile.
 
-Live deployment and download verification will be recorded after GitHub Pages finishes building. The financial model and PDF are unchanged from the verified project release.
+The live website returns HTTP 200. All 7 internal page/asset/download URLs return HTTP 200 and match repository bytes by SHA-256, including the PDF and Excel file. The published downside selector and contribution accordion were checked in the browser. GitHub Pages deployment succeeded for source commit `f417e68c0b662717ed26ee633ae8887dce50814f`. See `site_validation.json` for file-level evidence. The financial model and PDF are unchanged from the verified project release.

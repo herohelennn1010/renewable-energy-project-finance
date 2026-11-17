@@ -19,5 +19,12 @@
     "model": 55,
     "source_and_budget": 44,
     "release": 15
+  },
+  "website": {
+    "url": "https://herohelennn1010.github.io/renewable-energy-project-finance/",
+    "source_commit": "f417e68c0b662717ed26ee633ae8887dce50814f",
+    "live": true,
+    "live_assets_verified": 7,
+    "validation_report": "validation/site_validation.json"
   }
 }

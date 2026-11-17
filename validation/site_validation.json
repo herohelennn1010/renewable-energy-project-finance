@@ -1,0 +1,58 @@
+{
+  "as_of": "2026-11-17",
+  "url": "https://herohelennn1010.github.io/renewable-energy-project-finance/",
+  "source_commit": "f417e68c0b662717ed26ee633ae8887dce50814f",
+  "live": true,
+  "assets": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256_matches": true,
+      "bytes": 16707
+    },
+    {
+      "path": "assets/dashboard.png",
+      "status": 200,
+      "sha256_matches": true,
+      "bytes": 178558
+    },
+    {
+      "path": "assets/sensitivity.png",
+      "status": 200,
+      "sha256_matches": true,
+      "bytes": 107060
+    },
+    {
+      "path": "memo/credit_committee_memo.pdf",
+      "status": 200,
+      "sha256_matches": true,
+      "bytes": 18576
+    },
+    {
+      "path": "model/renewable_project_finance.xlsx",
+      "status": 200,
+      "sha256_matches": true,
+      "bytes": 233618
+    },
+    {
+      "path": "site/app.js",
+      "status": 200,
+      "sha256_matches": true,
+      "bytes": 4093
+    },
+    {
+      "path": "site/styles.css",
+      "status": 200,
+      "sha256_matches": true,
+      "bytes": 16118
+    }
+  ],
+  "all_live_assets_match_repository_bytes": true,
+  "four_scenario_snapshots_match_model": true,
+  "all_four_scenarios_inspected_in_browser": true,
+  "live_downside_and_evidence_accordion_checked": true,
+  "desktop_and_390px_mobile_visually_reviewed": true,
+  "mobile_horizontal_overflow": false,
+  "financial_model_and_memo_changed": false,
+  "native_excel_recalculation": "Not independently verified; unchanged limitation."
+}

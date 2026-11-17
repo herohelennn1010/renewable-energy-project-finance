@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-17",
-  "scope": "Reviewed project and website source; excludes the manifest and publication receipt to avoid self-reference.",
+  "scope": "Reviewed project and website source; excludes manifest and publication receipt to avoid self-reference.",
   "files": [
     {
       "path": ".gitignore",
@@ -333,10 +333,16 @@
       "git_blob_sha1": "6933ac42779ec7884dbcfd4cfe81720cda5b3ec5"
     },
     {
+      "path": "validation/site_validation.json",
+      "bytes": 1499,
+      "sha256": "578d6bd70b13c19b30538797062f9dcf339f873cbf3521ab0984cd94fe0229a8",
+      "git_blob_sha1": "4a89e24a0102a0c99fbe7e5350a021c0c61532d7"
+    },
+    {
       "path": "validation/site_validation.md",
-      "bytes": 1024,
-      "sha256": "5a7f266d1efb80bf8d470637804e8b7090c8445c2bb642709155131839c81af4",
-      "git_blob_sha1": "bb6a676420b1f7fd791d9cbc6953712dc89a9832"
+      "bytes": 1327,
+      "sha256": "d4cbff68812aed0a3d135743f37e8f7e3df80d910c539b24b2b1722d62233ef6",
+      "git_blob_sha1": "f5705679c4de103d40a38cec501a6e56d10bd5aa"
     },
     {
       "path": "validation/validate_model.py",
