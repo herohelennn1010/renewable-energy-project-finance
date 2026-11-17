@@ -16,3 +16,6 @@ Updated 17 November 2026. Phases 0–7 are complete, with native Excel verificat
 Artifacts: model/renewable_project_finance.xlsx, memo/credit_committee_memo.pdf, validation/model_validation.md, model/scenario_results.json and model/breakpoints.json.
 
 The original case retains breaches and funding gaps. Ordinary-quarter sizing is not a viable revised loan. Lifecycle funding/covenant restructuring would be a separate iteration with new validation and memo.
+
+
+Portfolio website: https://herohelennn1010.github.io/renewable-energy-project-finance/ — a static presentation with a four-case scenario explorer and direct deliverable downloads. Website verification is documented separately in `validation/site_validation.md`.

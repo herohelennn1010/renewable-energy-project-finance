@@ -8,11 +8,11 @@ Should a hypothetical DBS lender provide a **S$100 million commitment** to a hyp
 
 This is a simulation, with no affiliation, endorsement, actual financing mandate or confidential information from either company. The 120 MWp asset, sites, contracts, terms and support commitments are hypothetical. Public sponsor observations are separately sourced.
 
-[Public repository](https://github.com/herohelennn1010/renewable-energy-project-finance)
+[View the portfolio website](https://herohelennn1010.github.io/renewable-energy-project-finance/) · [GitHub repository](https://github.com/herohelennn1010/renewable-energy-project-finance)
 
 ## Start here
 
-Read the [viewing guide](docs/viewing_guide.md). For a quick review, open the PDF memo, then download the Excel file and start at Dashboard. GitHub previews documentation and the memo; Excel is used to operate the model.
+Visit the [portfolio website](https://herohelennn1010.github.io/renewable-energy-project-finance/) for the scenario explorer and deliverable downloads, or read the [viewing guide](docs/viewing_guide.md). For a quick review, open the PDF memo, then download the Excel file and start at Dashboard. GitHub previews documentation and the memo; Excel is used to operate the model.
 
 ## Deliverables
 
@@ -79,3 +79,8 @@ These Python checks do not independently recalculate every Excel formula. Rebuil
 ## Contribution
 
 This case study was developed with substantial AI assistance for research, modelling, code, drafting and checks. See the [contribution statement](docs/contribution_statement.md). It does not claim that the author independently wrote or manually verified every formula.
+
+
+## Portfolio website
+
+The static GitHub Pages site uses `index.html`, `site/styles.css` and `site/app.js`. Run `python3 scripts/build_site.py` after updating model snapshots or the page template. It embeds the four calculated cases from the model outputs and the original scenario drivers from the formula map. It displays those snapshots rather than recalculating Excel. See [website maintenance](docs/website.md).

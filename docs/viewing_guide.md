@@ -4,6 +4,8 @@
 
 ## Read in this order
 
+For the visual presentation, start at the [portfolio website](https://herohelennn1010.github.io/renewable-energy-project-finance/). It provides a scenario explorer, credit summary and direct downloads. The GitHub repository retains the detailed audit trail.
+
 1. **README.md** gives the credit question, simulation disclosure, headline results and deliverable links. On GitHub it appears below the file list.
 2. **memo/credit_committee_memo.pdf** is the five-page banking deliverable. Read this first for the recommendation and risk reasoning. Preview it in the browser or download and open it in Preview.
 3. **model/renewable_project_finance.xlsx** is the working model. Download the raw file from GitHub and open it in Microsoft Excel. The GitHub file page is a download location, not a working spreadsheet.
@@ -28,7 +30,7 @@ Restore **Assumptions!E4 = 1** and **Sensitivity!E4:E7 = 1, 1, 0, 1** when finis
 
 ## What to share on a resume
 
-Link the project title to the **GitHub repository homepage**. The reviewer sees a short overview and can open the PDF, download Excel, or inspect the evidence. The repository is the main portfolio link; the memo is the fastest substantive read.
+Link the project title to the **portfolio website** for a visual introduction. The reviewer can open the memo, download Excel and explore the four scenarios. The website links to GitHub for the detailed source, assumptions and validation. The memo remains the fastest substantive read.
 
 Suggested title: **Renewable Energy Project Finance & Credit Assessment — Independent Case Study**.
 
