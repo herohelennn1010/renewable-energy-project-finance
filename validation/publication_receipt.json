@@ -3,8 +3,21 @@
   "repository": "https://github.com/herohelennn1010/renewable-energy-project-finance",
   "visibility": "public",
   "public_visibility_explicitly_approved": true,
-  "full_publication_complete": false,
-  "status": "Release prepared; remote verification follows the first push.",
-  "verification_coverage": "Compare every Git blob identity and expected path with the reviewed local files.",
-  "native_excel_recalculation": "Not independently verified."
+  "full_publication_complete": true,
+  "verified_release_commit": "5859cd5d8447f7326d2d0fabb44240b2c959bedc",
+  "verified_release_url": "https://github.com/herohelennn1010/renewable-energy-project-finance/commit/5859cd5d8447f7326d2d0fabb44240b2c959bedc",
+  "remote_files_verified": 53,
+  "manifest_content_files_verified": 51,
+  "all_remote_paths_and_git_blob_hashes_match": true,
+  "core_deliverables_match": true,
+  "pending_new_files": [],
+  "pending_updated_files": [],
+  "verification_method": "Fetched remote main, compared every tracked path and Git blob SHA-1 with local bytes, then compared all 51 manifest content files using Git SHA-1 and SHA-256. All internal viewer-facing links passed the release checks.",
+  "receipt_note": "This receipt is committed after the verified release. The final receipt commit is visible in this file history. The manifest excludes itself and this receipt to avoid self-referential hashes.",
+  "native_excel_recalculation": "Not independently verified; calculation-engine, OpenXML and visual checks are documented.",
+  "check_counts": {
+    "model": 55,
+    "source_and_budget": 44,
+    "release": 15
+  }
 }
