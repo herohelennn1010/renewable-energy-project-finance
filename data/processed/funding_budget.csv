@@ -1,0 +1,11 @@
+item,amount_sgd,classification,expression,dependency_ids,scope
+EPC,132000000.0,derived_calculation,dc_capacity_mwp*1000*EPC_cost_per_kwp,A001;A024,"planning envelope, not forecast actuals"
+contingency,6600000.0,derived_calculation,EPC*contingency_fraction,A001;A024;A025,"planning envelope, not forecast actuals"
+development,2000000.0,derived_calculation,development_cost,A026,"planning envelope, not forecast actuals"
+upfront_fee,1000000.0,derived_calculation,loan_commitment*upfront_fee,A049;A028,"planning envelope, not forecast actuals"
+IDC_envelope,5000000.0,derived_calculation,IDC_budget,A029,"planning envelope, not forecast actuals"
+liquidity_envelope,400000.0,derived_calculation,initial_liquidity_budget,A030,"planning envelope, not forecast actuals"
+reserve_envelope,6000000.0,derived_calculation,DSRA_budget,A031,"planning envelope, not forecast actuals"
+total_permanent_uses,153000000.0,derived_calculation,SUM(permanent use rows),A001;A024;A025;A026;A028;A029;A030;A031;A049,"planning envelope, not forecast actuals"
+senior_commitment,100000000.0,derived_calculation,loan_commitment,A049,"planning envelope, not forecast actuals"
+permanent_equity_commitment,53000000.0,derived_calculation,total_permanent_uses-senior_commitment,A001;A024;A025;A026;A028;A029;A030;A031;A049,"planning envelope, not forecast actuals"

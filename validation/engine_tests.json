@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Blank unselected case does not alter base",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "Selected missing input is exposed",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "Zero senior loan makes DSCR not applicable",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "Zero generation is not replaced by a healthy base",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "Hedge reduces exposed interest increase",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "Scenario and sensitivity changes leave verified history unchanged",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "Inputs restored to the original base",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "Native price/yield table agrees with direct model recalculation",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "Native rate/opex table agrees with direct model recalculation",
+    "status": "PASS",
+    "detail": ""
+  }
+]

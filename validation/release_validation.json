@@ -1,0 +1,74 @@
+{
+  "as_of": "2026-11-17",
+  "passed": 15,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "All 55 model checks pass",
+      "status": "PASS"
+    },
+    {
+      "name": "All 44 evidence/budget checks pass",
+      "status": "PASS"
+    },
+    {
+      "name": "Memo is exactly five pages",
+      "status": "PASS"
+    },
+    {
+      "name": "Base rounded scenario outputs appear in memo",
+      "status": "PASS"
+    },
+    {
+      "name": "Upside rounded scenario outputs appear in memo",
+      "status": "PASS"
+    },
+    {
+      "name": "Downside rounded scenario outputs appear in memo",
+      "status": "PASS"
+    },
+    {
+      "name": "Severe rounded scenario outputs appear in memo",
+      "status": "PASS"
+    },
+    {
+      "name": "Downside arrears agree with memo",
+      "status": "PASS"
+    },
+    {
+      "name": "Memo preserves negative recommendation",
+      "status": "PASS"
+    },
+    {
+      "name": "Memo preserves native Excel limitation",
+      "status": "PASS"
+    },
+    {
+      "name": "Viewer-facing relative file links resolve",
+      "status": "PASS"
+    },
+    {
+      "name": "Public data and hypothetical project inputs are distinguished",
+      "status": "PASS"
+    },
+    {
+      "name": "AI contribution disclosure is included",
+      "status": "PASS"
+    },
+    {
+      "name": "Dashboard and sensitivity previews are readable PNG files",
+      "status": "PASS"
+    },
+    {
+      "name": "No detected GitHub token/private-key patterns in release text",
+      "status": "PASS"
+    }
+  ],
+  "publication": "Public repository created after explicit user approval; uploaded release is verified separately by its publication receipt.",
+  "repository": "herohelennn1010/renewable-energy-project-finance",
+  "limitations": [
+    "Native Microsoft Excel application opening/recalculation not independently verified.",
+    "55 model checks and 44 evidence/budget checks are reused for unchanged numerical artifacts; release checks do not independently reperform all source research.",
+    "Targeted secret scan is not exhaustive secret detection."
+  ]
+}

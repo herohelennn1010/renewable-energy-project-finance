@@ -1,0 +1,235 @@
+{
+  "as_of": "2026-11-17",
+  "scope": "Phases0-3 data and budget consistency only; not source assurance or project credit approval",
+  "passed": 44,
+  "failed": 0,
+  "checks": [
+    {
+      "check": "unique financial observation IDs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "unique assumption IDs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "all public observations have a registered source",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "all public observations have a locator and unit",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "hypothetical project inputs are not labelled facts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "source publications are within cutoff",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "hypothetical context sources exist",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2023 revenue less costs equals gross profit",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2023 management adjusted EBITDA identity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2023 assets equal liabilities plus equity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2023 debt maturity buckets tie",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2023 balance-sheet cash at least CFS cash",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2024 revenue less costs equals gross profit",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2024 management adjusted EBITDA identity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2024 assets equal liabilities plus equity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2024 debt maturity buckets tie",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2024 balance-sheet cash at least CFS cash",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2025 revenue less costs equals gross profit",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2025 management adjusted EBITDA identity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2025 assets equal liabilities plus equity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2025 debt maturity buckets tie",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "FY2025 balance-sheet cash at least CFS cash",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1H2025 revenue less costs equals gross profit",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1H2025 management adjusted EBITDA identity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1H2026 revenue less costs equals gross profit",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1H2026 management adjusted EBITDA identity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1H2026 assets equal liabilities plus equity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1H2026 debt maturity buckets tie",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "1H2026 balance-sheet cash at least CFS cash",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no half-year annualised debt/EBITDA outputs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "metric dependencies are valid observations",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "restatement 2023-12-31 / opening2024 assets",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "restatement 2023-12-31 / opening2024 equity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "restatement 2024-12-31 assets",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "restatement 2024-12-31 equity",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "restatement FY2024 patmi_total",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "restatement FY2024 profit_total_allholders",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "construction spending fractions sum to one",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "PPA plus initial merchant production shares equal one",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "hedge fraction is bounded",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "permanent sources equal permanent budget uses",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "requested commitment within assumed debt-to-cost ceiling",
+      "status": "PASS",
+      "detail": "Structural budget check only; no inference about debt capacity or approval."
+    },
+    {
+      "check": "fixed maturity precedes base PPA expiry",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "rights outlast base operating life",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "disclosed_limitations": [
+    "FY2023 not recast; FY2024 restated",
+    "Interim statements unaudited and unreviewed",
+    "No original PDF binaries or visual verification",
+    "Project contracts, site rights and sponsor facilities are hypothetical",
+    "This evidence/budget script does not compute project DSCR; use the separate final model validation"
+  ]
+}

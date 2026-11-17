@@ -1,0 +1,46 @@
+{
+  "full_covenant": "Already breached in the base replacement quarter; ordinary-quarter limits below do not cure it.",
+  "yield_at_ordinary_1_20": {
+    "input": 0.8049811840057374,
+    "ordinary_min_DSCR": 1.2000004698889997,
+    "full_min_DSCR": -3.416062652254698
+  },
+  "opex_at_ordinary_1_20": {
+    "input": 2.6291818618774414,
+    "ordinary_min_DSCR": 1.1999998199358086,
+    "full_min_DSCR": -3.5803229402862207
+  },
+  "rate_add_at_ordinary_1_20": {
+    "input": 0.07794392108917235,
+    "ordinary_min_DSCR": 1.199999839022208,
+    "full_min_DSCR": -2.545580359507935
+  },
+  "zero_merchant_reference_ordinary_DSCR": 1.3282024444847789,
+  "yield_first_local_payment_failure": {
+    "input": 0.8049191474914548,
+    "peak_unpaid": 0.22477993462234735,
+    "method": "First failure bracket in descending 5-point yield scan, then local bisection; cash-retention policy is piecewise."
+  },
+  "downside_ordinary_sizing_diagnostic": {
+    "permanent_equity": 64620059.0133667,
+    "Senior commitment": 100000000,
+    "Actual debt drawn at COD": 93039042.89122982,
+    "Permanent sponsor equity": 64620059.0133667,
+    "Actual permanent uses": 157659101.9045965,
+    "Construction interest and fees": 3697080.62349704,
+    "Peak construction funding gap": 0,
+    "Completion support drawn": 2.3283064365386963e-9,
+    "Peak GST bridge": 2800285.7142857146,
+    "Minimum quarterly organic DSCR": -3.612002240111927,
+    "Minimum DSCR excluding replacement": 1.2000003991427515,
+    "Quarters below covenant": 1,
+    "Peak unpaid debt service": 87060.5376661215,
+    "Actual senior debt at maturity": 0,
+    "Peak operating funding gap": 2583245.627220312,
+    "COD beyond construction longstop": 0,
+    "Commitment / planning funded cost": 0.6535947712418301,
+    "COD debt / first-year EBITDA": 5.311668288955256,
+    "Minimum EBITDA / cash interest": 3.9221826740673604,
+    "qualification": "Full replacement-quarter covenant still fails. Not an approvable debt size or a completed restructuring."
+  }
+}

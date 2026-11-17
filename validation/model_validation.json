@@ -1,0 +1,289 @@
+{
+  "as_of": "2026-11-17",
+  "passed": 55,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "First full operating-year generation",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "First-year contracted revenue",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "First-year merchant revenue",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Fixed PPA expires after year 20",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Construction spending sums to original EPC",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Unused contingency is not fabricated capex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "First-quarter ACT/365 interest",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "First-quarter equal principal",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Year-12 replacement cost independently recomputed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Replacement included once only",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "CFADS components quarter 1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "DSCR denominator quarter 1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "CFADS components quarter 12",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "DSCR denominator quarter 12",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "CFADS components quarter 48",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "DSCR denominator quarter 48",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "CFADS components quarter 60",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "DSCR denominator quarter 60",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "CFADS components quarter 81",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "DSCR denominator quarter 81",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "CFADS components quarter 100",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "DSCR denominator quarter 100",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "CFADS components quarter 101",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "DSCR denominator quarter 101",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Debt fully amortised by final contractual payment",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "No floating residue creates post-maturity DSCR",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Book value depreciates to zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "No final trade receivables or payables",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Operating GST timing nets to zero after run-off",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "All-period cash roll-forward",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Base reconciliations",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Upside reconciliations",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Downside reconciliations",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Severe reconciliations",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Base replacement breach not hidden",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Base covenant breach distinguished from payment failure",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Downside payment shortfall remains visible",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Severe completion failure remains visible",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Exported XLSX is intact",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "No cached Excel formula errors",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "Calculated formula caches are present",
+      "status": "PASS",
+      "detail": "Saved results available without first recalculation."
+    },
+    {
+      "name": "Two native What-If Data Tables exported",
+      "status": "PASS",
+      "detail": "[{'t': 'dataTable', 'ref': 'E16:I20', 'dt2D': '1', 'r1': 'E4', 'r2': 'E5'}, {'t': 'dataTable', 'ref': 'E26:I30', 'dt2D': '1', 'r1': 'E6', 'r2': 'E7'}]"
+    },
+    {
+      "name": "Native chart exported",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "No external workbook links",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "No embedded VBA macros",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Iterative calculation not enabled",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Blank unselected case does not alter base",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Selected missing input is exposed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Zero senior loan makes DSCR not applicable",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Zero generation is not replaced by a healthy base",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Hedge reduces exposed interest increase",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Scenario and sensitivity changes leave verified history unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Inputs restored to the original base",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Native price/yield table agrees with direct model recalculation",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "Native rate/opex table agrees with direct model recalculation",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "coverage": "Artifact Tool calculation engine, independent numeric checks and exported OpenXML. Native Microsoft Excel application recalculation not performed.",
+  "limitations": [
+    "Source facts retain the Phase 0-3 source-access and comparability limits.",
+    "Native Excel application behavior is not independently verified.",
+    "Post-payment-default penalty interest, acceleration and recovery are outside this model.",
+    "Operations in a construction-funding-gap case are conditional diagnostics."
+  ]
+}

@@ -1,0 +1,7 @@
+date,metric,original,adjustment,restated,source_id,locator
+2023-12-31 / opening2024,assets,15497,92,15589,S01,noteA2 pp136-137
+2023-12-31 / opening2024,equity,4872,83,4955,S01,noteA2 pp136-137
+2024-12-31,assets,18178,102,18280,S01,noteA2 pp136-137
+2024-12-31,equity,5659,92,5751,S01,noteA2 pp136-137
+FY2024,patmi_total,1011,5,1016,S01,noteA2 pp136-137
+FY2024,profit_total_allholders,1036,7,1043,S01,noteA2 pp136-137
